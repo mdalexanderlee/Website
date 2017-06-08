@@ -1,0 +1,23 @@
+#center {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  min-width: 200px;
+  text-align: center;
+}
+
+#end {
+  position: fixed;
+  bottom: 2%;
+  left: 2%
+}
+
+#start {
+  position: fixed;
+  left: 2%;
+}
+
+.link{
+  margin-left: 10px;
+}
